@@ -98,28 +98,28 @@ __RTCP{TH15_1Z_A_C4T_CH4T_N0T_A_M3M3_CH4T}__
 
 # **GENERAL SKILLS**
 
-# Sticks and stones
+### Sticks and stones
 We are given a huge file with possible flags and incomplete flags. The way i found it was to CRTF+F the _ (underscore).  
 __rtcp{w0Rd5_HuRt_,_d0n'T_Bu11y_,_k1Dz}__
 
-# Types of Rice and Cookies, Because Those Definitely Go Together Well
+### Types of Rice and Cookies, Because Those Definitely Go Together Well
 Just google types of web cookies. After you find the 3 main types check whick one of them is.  
 __rtcp{persistent_cookies}__
 
-# pandamonium
+### pandamonium
 The long string of A had nothing to do with the flag. Thanks to a hint from discord which said is related to chemistry, I looked up the number values in the periodic table of elements, and took the elements name and joined them with the letters given. And added the needed _(underscore).  
 __rtcp{PaNNeD_AmMoNiA}__
 
-# Treeeeeeee
+### Treeeeeeee
 Looking at unziped archive we see lots of folders with sub-subfolders. I used the following command to list all the jpg files 
 'find . -name  '*.jpg' -exec file {} \; '  and the i looked for an image which had a cat in it. The file with the flag was ENP92.jpg .
 __rtcp{meow_sharp_pidgion_rice_tree}__
 
-# Basic c4
+### Basic c4
 It turns out is an encoding. Just took the file and drop it on thiss webite: http://www.cccc.io.
 __rtcp{c42CW3TbiGhvptM36RJJ9ScctgkskjvZPo6dG8JexzZRvzQR6hwovZJLDkYK5pZ6cq9e7fX1ShUiYUdM7H1Uuqj64G}__
 
-# Come eat Grandma
+### Come eat Grandma
 Just look at the history of version of the spreadsheet you'll se the file: "and oh, woah, a FLAG," which has the flag. I solved just thanks to the hint 'from historical reasons'.  
 __rtcp{D0n't_E^t_Gr4NDmA_734252}__
 
