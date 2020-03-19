@@ -111,3 +111,11 @@ https://ask.wireshark.org/question/4641/how-to-activate-leftover-capture-data/
 
 https://osqa-ask.wireshark.org/questions/45128/export-wireshark-capture-to-csv-or-excel-file  
 
+
+# **MISC**
+
+### True Detective
+
+We are given a link to a google form to complete. This form has a photo of a street or store in London which has the name erased from it and we need to find out what the text is. I solved this challenge by opening the source of the page and  found the flag scattered. All i did was to asseble the flag.
+
+FLAG{08c49c3d9ae88983437729747bcf1be8}
