@@ -142,7 +142,7 @@ flag{pR1m3s_4re_co0ler_Wh3n_pal1nDr0miC}
 ### Microsoft
 
 I used binwalk to check if there are any hidden files within the document and it turns out there are plenty.
-Using grep -r 'flag' i got the flag.
+Using ``` bash grep -r 'flag' i got the flag. ```
 flag{oof_is_right_why_gfxdata_though}
 
 ### Cow pie 
